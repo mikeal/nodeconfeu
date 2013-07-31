@@ -33,19 +33,19 @@ All blocks take place in the beginning of the day and end before 5pm. The evenin
 - Trevor Norris (@trevnorris)
 - Richard Rodger (@rjrodger)
 
-### Debugging Act
+### Debugging
 - Jake Verbaten (@raynos)
 - Max Bruning (@maxbruning)
 - Daniel Shaw (@dshaw)
 
 ## Wednesday 11th 
 
-### Production Act 
+### Production 
 - Ben Acker (@nvcexploder)
 - Bill Scott (@billwScott) 
 - Clifton Cunningham (@clifcunn) 
 
-### NodeBase Act
+### NodeBase
 - Rod Vagg (@rvagg)
 - Dominic Tarr (@dominictarr)
 - Paolo Fragomeni (@hij1nx)
