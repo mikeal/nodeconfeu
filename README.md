@@ -50,7 +50,9 @@ All blocks take place in the beginning of the day and end before 5pm. The evenin
 - Dominic Tarr (@dominictarr)
 - Paolo Fragomeni (@hij1nx)
 
-Keynotes
+# Keynotes
 - Isaacs
 - Mikeal 
 - 3 other mystery talks.
+
+Keynotes have not been placed in specific time slots yet, if you're giving one please be ready on the 8th to give it.
