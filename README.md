@@ -4,7 +4,7 @@
 
 ## Session Format
 
-Sessions are broken in to blocks of ~80 minutes (4 talks at 20 minutes each) similar to NodeConf 2012. The only exceptions are keynotes talks which have varying lengths and times.
+Sessions are broken in to blocks of 60-80 minutes (3-4 talks at 20 minutes each) similar to NodeConf 2012. The only exceptions are keynotes talks which have varying lengths and times.
 
 **You will not go over 20 minutes,  you will be pulled :)**
 
@@ -44,6 +44,7 @@ All blocks take place in the beginning of the day and end before 5pm. The evenin
 - Ben Acker (@nvcexploder)
 - Bill Scott (@billwScott) 
 - Clifton Cunningham (@clifcunn) 
+- Dav Glass (@davglass)
 
 ### NodeBase
 - Rod Vagg (@rvagg)
