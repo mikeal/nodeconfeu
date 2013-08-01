@@ -14,6 +14,8 @@ All blocks take place in the beginning of the day and end before 5pm. The evenin
 
 # Blocks
 
+The ordering of people in this list is **not** the order you will be speaking in. Ordering will be worked out in the issue threads about your block.
+
 ## Monday 9th
 
 ### Streams
@@ -50,6 +52,7 @@ All blocks take place in the beginning of the day and end before 5pm. The evenin
 - Rod Vagg (@rvagg)
 - Dominic Tarr (@dominictarr)
 - Paolo Fragomeni (@hij1nx)
+- Julian Gruber (@juliangruber)
 
 # Keynotes
 - Isaacs
