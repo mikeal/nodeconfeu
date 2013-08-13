@@ -18,10 +18,11 @@ The ordering of people in this list is **not** the order you will be speaking in
 
 ## Monday 9th
 
-### Streams
-- Dominic Tarr (@DominicTarr)
-- Max Ogden (@MaxOgden)
-- James Halliday (@SubStack)
+### NodeBase
+- Rod Vagg (@rvagg)
+- Dominic Tarr (@dominictarr)
+- Paolo Fragomeni (@hij1nx)
+- Julian Gruber (@juliangruber)
 
 ### Node.js & the Internet of Things
 - Emily Rose (@nexxylove)
@@ -29,6 +30,19 @@ The ordering of people in this list is **not** the order you will be speaking in
 - Matteo Collina (@mcollina)
 
 ## Tuesday 10th 
+
+### Streams
+- Dominic Tarr (@DominicTarr)
+- Max Ogden (@MaxOgden)
+- James Halliday (@SubStack)
+
+### Production 
+- Ben Acker (@nvcexploder)
+- Bill Scott (@billwScott) 
+- Clifton Cunningham (@clifcunn) 
+- Dav Glass (@davglass)
+
+## Wednesday 11th 
 
 ### Core
 - Bert Belder (@piscisaureus)
@@ -39,20 +53,6 @@ The ordering of people in this list is **not** the order you will be speaking in
 - Jake Verbaten (@raynos)
 - Max Bruning (@maxbruning)
 - Daniel Shaw (@dshaw)
-
-## Wednesday 11th 
-
-### Production 
-- Ben Acker (@nvcexploder)
-- Bill Scott (@billwScott) 
-- Clifton Cunningham (@clifcunn) 
-- Dav Glass (@davglass)
-
-### NodeBase
-- Rod Vagg (@rvagg)
-- Dominic Tarr (@dominictarr)
-- Paolo Fragomeni (@hij1nx)
-- Julian Gruber (@juliangruber)
 
 # Keynotes
 - Isaacs
