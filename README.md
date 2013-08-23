@@ -31,12 +31,12 @@ The ordering of people in this list is **not** the order you will be speaking in
 
 ## Tuesday 10th 
 
-### Streams
-- Dominic Tarr (@DominicTarr)
+### Whatever they want.
 - Max Ogden (@MaxOgden)
 - James Halliday (@SubStack)
 
 ### Production 
+- Jacek
 - Ben Acker (@nvcexploder)
 - Bill Scott (@billwScott) 
 - Clifton Cunningham (@clifcunn) 
