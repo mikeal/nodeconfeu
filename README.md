@@ -36,7 +36,7 @@ The ordering of people in this list is **not** the order you will be speaking in
 - James Halliday (@SubStack)
 
 ### Production 
-- Jacek Korycki
+- Jacek Korycki (@jkoryck)
 - Ben Acker (@nvcexploder)
 - Bill Scott (@billwScott) 
 - Clifton Cunningham (@clifcunn) 
