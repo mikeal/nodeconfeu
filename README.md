@@ -60,3 +60,25 @@ The ordering of people in this list is **not** the order you will be speaking in
 - 3 other mystery talks.
 
 Keynotes have not been placed in specific time slots yet, if you're giving one please be ready on the 8th to give it.
+
+
+# Hands-On Sessions
+
+# Internet of Things
+- Emily Rose
+- Mateo Colina
+- Eli Insua
+ 
+# Node Databases
+- Rod Vagg
+- Dominic Tarr
+- Paolo Fragomeni
+- Julian Gruber
+- Raynos
+
+# Manta
+- TJ Fontaine
+- Max Bruning
+
+# Copters will be out all the time.
+
