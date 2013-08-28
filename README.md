@@ -64,21 +64,21 @@ Keynotes have not been placed in specific time slots yet, if you're giving one p
 
 # Hands-On Sessions
 
-# Internet of Things
+#### Internet of Things
 - Emily Rose
 - Mateo Colina
 - Eli Insua
  
-# Node Databases
+### Node Databases
 - Rod Vagg
 - Dominic Tarr
 - Paolo Fragomeni
 - Julian Gruber
 - Raynos
 
-# Manta
+### Manta
 - TJ Fontaine
 - Max Bruning
 
-# Copters will be out all the time.
+### Copters will be out all the time.
 
