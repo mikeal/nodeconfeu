@@ -1,7 +1,3 @@
-# DONT TELL ANYONE!
-
-**This document contains several pieces of information that we're holding on to as a surprise for the attendees so please don't share the information contained within.**
-
 ## Session Format
 
 Sessions are broken in to blocks of 60-80 minutes (3-4 talks at 20 minutes each) similar to NodeConf 2012. The only exceptions are keynotes talks which have varying lengths and times.
